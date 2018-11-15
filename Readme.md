@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/SyntaxHighlight/Form1.cs) (VB: [Form1.vb](./VB/SyntaxHighlight/Form1.vb))
+* [Program.cs](./CS/SyntaxHighlight/Program.cs) (VB: [Program.vb](./VB/SyntaxHighlight/Program.vb))
+<!-- default file list end -->
 # Syntax Highlighting
 
 
